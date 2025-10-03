@@ -1,5 +1,5 @@
 # Namaste_Chat_In
-A Full-Stack Scalable Chat Application Following Aatmanirbhar bharat..
+A Full-Stack Scalable Chat Application Following Atmanirbhar bharat..
 
 A Small Glimpse ..
 🔍 Preview of NamasteChatApp
